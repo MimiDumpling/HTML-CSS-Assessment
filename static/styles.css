@@ -1,0 +1,16 @@
+input{
+	background-color: yellow;
+}
+
+#last{
+	font-weight: bold;
+}
+
+.border{
+	border-style: solid;
+}
+
+h1{
+	background-color: blue;
+}
+
